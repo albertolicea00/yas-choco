@@ -21,7 +21,7 @@ Windows 10/11. x64.
 - Licensed vs FOSS choco editions differ in features; target FOSS.
 
 ## Design (see DESIGN.md)
-- Dark theme. Base `#212826`, accent **Chocolate `#7B3F00`**, highlight `#7B3F001A`, text `#F8F8F2` / `#ACADAD`.
+- Dark theme. Base `#222629`, accent **Chocolate `#7B3F00`**, highlight `#7B3F001A`, text `#F8F8F2` / `#ACADAD`.
 - App tag: **CHOC**. Fonts: Outfit/Inter (UI), Fira Code or JetBrains Mono (CLI output).
 
 ## Conventions
